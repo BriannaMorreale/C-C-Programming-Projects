@@ -1,0 +1,2 @@
+For this assignment, we had to create a UML diagram that would set up the framework for our object-oriented assignment. We had to create a world class that had objects of both creature and food. The creature object has to have an interface of actions to be able to traverse a map.
+The code for this project is only the framework of the UML digram in C. The inheritance is set up as well as all of the proper classes. 
