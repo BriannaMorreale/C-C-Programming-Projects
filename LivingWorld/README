@@ -1,0 +1,6 @@
+This was our final project in our C programming class. For this assignment, we had to create our actual world and build off of the framework in the previous assignment.
+We had to create a world that would spawn creatures and food. The creatures had the ability to move around, eat food if any was found, and reproduce if it find another
+creature. Multiple actions within the program rely on chance (by use of random numbers), meaning that there is probability behind spawning and reproducing. 
+When the program is ran, 10 stages will run and output to the terminal. Within each stage, the creature will have a single action (move, eat, reproduce, or die). 
+At the end of the simulation, there will be stats displaying how many creatures were spawned, the average hunger, age, and deaths that have occured. You can think of
+each stage as one year in the world. 
